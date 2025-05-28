@@ -27,3 +27,6 @@ După încărcarea codului și conectarea hardware-ului:
 
 **Autor:** [davidgammer405](https://github.com/davidgammer405) Partea de software
            [cristianulala](https://github.com/Cristianulala)   Partea de hardware
+
+
+[Link documentatie](https://docs.google.com/document/d/1QN0YYGkjrxqenl1ACrt1FV7oHRedkvF5x5SKVAeRhzg/edit?usp=sharing)
