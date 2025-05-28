@@ -26,4 +26,4 @@ După încărcarea codului și conectarea hardware-ului:
 - SMS daca temperatura trce de un anumit threshold
 
 **Autor:** [davidgammer405](https://github.com/davidgammer405) Partea de software
-           [cristianulala] (https://github.com/Cristianulala)  Partea de hardware
+           [cristianulala](https://github.com/Cristianulala)   Partea de hardware
